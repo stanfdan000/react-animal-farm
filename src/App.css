@@ -11,3 +11,16 @@ body {
 body {
   background-color: var(--color1);
 }
+.animalList {
+    
+    width: 25px;
+    margin: 100px;
+    border-radius: 25px;
+    padding: 100px;
+    
+    
+    display: flex;
+ 
+ 
+    
+}
